@@ -13,6 +13,6 @@ public class Main {
         Comment comment = new Comment();
         comment.setText("Мне нравится!");
         comment.setAuthor("А.С. Пушкин");
-         service.publishComment(comment);
+        service.publishComment(comment);
     }
 }
